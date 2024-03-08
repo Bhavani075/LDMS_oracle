@@ -31,6 +31,7 @@ I have employed diverse approaches for each task, utilizing distinct data object
 ## SQL/PLSQL Scripts:
 
 1: SQL script to create tables
+
 2: SQL script to insert given data
 3: PLSQL procedure to insert new employee
 4: PLSQL block to change in salary
