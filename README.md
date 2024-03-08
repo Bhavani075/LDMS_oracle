@@ -22,8 +22,20 @@ Logon to Oracle 19C database and execute the scripts
 
 ## Folder Structure:
 
-Separate folder for each task
-.sql and .docx
+│
+├── SQL_scripts
+│ └── Scenario1&2
+│ └── Scenario3
+│ └── Scenario4
+│ └── Scenario5
+│ └── Scenario6
+│ └── Scenario7
+│ └── Scenario8
+|-- Docs
+
+Separate folder for each Scenaios
+.sql files contains scripts
+.docx files contains evidences 
 Oracle coding challange document related to my understaing on the challenge
 
 ## Note:
