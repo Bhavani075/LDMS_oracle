@@ -14,6 +14,8 @@ Oracle 19c Database
 
 Step1: Clone the Repository
 
+Git clone https://github.com/Bhavani075/LDMS_oracle.git
+
 ## Usage:
 
 Logon to Oracle 19C database and execute the scripts
