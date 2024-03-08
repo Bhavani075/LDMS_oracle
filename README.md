@@ -1,6 +1,6 @@
 ## Oracle Coding Challenge
 
-#Introduction:
+# Introduction:
 This project contains a set of SQL and PL/SQL functions to manage employees within a company. It provides various
 scenarios for manipulating employee data such as creating employees, updating salaries, transferring employees
 to different departments, and more.
