@@ -33,9 +33,15 @@ I have employed diverse approaches for each task, utilizing distinct data object
 1: SQL script to create tables
 
 2: SQL script to insert given data
+
 3: PLSQL procedure to insert new employee
+
 4: PLSQL block to change in salary
+
 5: Dept transfer by using staging table, cursors and exception handling
+
 6: PLSQL function to return the salary of emp
+
 7: PLSQL procedure to fetch employee details acc.dept
+
 8: SQL query of total salary of employee acc.dept
