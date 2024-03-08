@@ -24,6 +24,7 @@ Logon to Oracle 19C database and execute the scripts
 
 │
 ├── SQL_scripts
+
 │ └── Scenario1&2
 │ └── Scenario3
 │ └── Scenario4
@@ -34,8 +35,11 @@ Logon to Oracle 19C database and execute the scripts
 |-- Docs
 
 Separate folder for each Scenaios
+
 .sql files contains scripts
+
 .docx files contains evidences 
+
 Oracle coding challange document related to my understaing on the challenge
 
 ## Note:
