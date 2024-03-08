@@ -26,12 +26,19 @@ Logon to Oracle 19C database and execute the scripts
 ├── SQL_scripts
 
 │ └── Scenario1&2
+
 │ └── Scenario3
+
 │ └── Scenario4
+
 │ └── Scenario5
+
 │ └── Scenario6
+
 │ └── Scenario7
+
 │ └── Scenario8
+
 |-- Docs
 
 Separate folder for each Scenaios
