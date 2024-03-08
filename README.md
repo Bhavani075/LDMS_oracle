@@ -39,7 +39,7 @@ Logon to Oracle 19C database and execute the scripts
 
 │ └── Scenario8
 
-|-- Docs
+├── Docs
 
 Separate folder for each Scenaios
 
