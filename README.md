@@ -55,9 +55,9 @@ I have employed diverse approaches for each task, utilizing distinct data object
 
 ## SQL/PLSQL Scripts:
 
-1: SQL queries to create tables
+1: SQL query to create tables
 
-2: SQL queries to insert given data
+2: SQL query to insert given data
 
 3: PLSQL procedure to insert new employee
 
