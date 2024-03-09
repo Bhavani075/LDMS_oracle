@@ -34,3 +34,4 @@ insert into employee_data values(90009,'Gus Jones','Manager',90001,'15-May-18',5
 insert into employee_data values(90010,'Mildred Hall','Secretary',90001,'12-Oct-96',35000,1);
 
 select * from employee_data;
+select * from department_data;
