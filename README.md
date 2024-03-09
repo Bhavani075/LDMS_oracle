@@ -65,7 +65,7 @@ I have employed diverse approaches for each task, utilizing distinct data object
 
 5: PLSQL block to transfer department by using staging table, cursors and exception handling
 
-6: PLSQL function to return the salary of employee
+6: PLSQL function to return the salary of the employee
 
 7: PLSQL procedure to fetch employee details for respective departments 
 
