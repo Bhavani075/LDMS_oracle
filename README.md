@@ -61,7 +61,7 @@ I have employed diverse approaches for each task, utilizing distinct data object
 
 3: PLSQL procedure to insert new employee
 
-4: PLSQL block to change in salary
+4: PLSQL block to change salary
 
 5: PLSQL block to transfer department by using staging table, cursors and exception handling
 
