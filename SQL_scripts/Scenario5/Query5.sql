@@ -1,10 +1,10 @@
-
+--Create staging table for employee to be transferred 
 CREATE TABLE transfer_dept_stage (
    employee_id NUMBER(10),
    new_department_id NUMBER(5)
 );
 
-
+--Inserting employee details whose departments are being transferred 
 INSERT INTO transfer_dept_stage VALUES (90001, 4);
 INSERT INTO transfer_dept_stage VALUES (90002, 1);
 
