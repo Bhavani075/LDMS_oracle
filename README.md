@@ -43,9 +43,9 @@ Logon to Oracle 19C database and execute the scripts
 
 Separate folder for each Scenaios
 
-.sql files contains scripts
+.sql files contain scripts
 
-.docx files contains evidences 
+.docx files contain evidences 
 
 Oracle coding challange document related to my understaing on the challenge
 
