@@ -47,7 +47,7 @@ Separate folder for each Scenaios
 
 .docx files contain evidences 
 
-Oracle coding challange document related to my understaing on the challenge
+Oracle coding challange document related to my understaing on the challenges
 
 ## Note:
 
