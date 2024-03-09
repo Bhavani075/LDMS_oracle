@@ -63,10 +63,10 @@ I have employed diverse approaches for each task, utilizing distinct data object
 
 4: PLSQL block to change in salary
 
-5: Dept transfer by using staging table, cursors and exception handling
+5: PLSQL block to transfer department by using staging table, cursors and exception handling
 
-6: PLSQL function to return the salary of emp
+6: PLSQL function to return the salary of employee
 
-7: PLSQL procedure to fetch employee details acc.dept
+7: PLSQL procedure to fetch employee details for respective departments 
 
-8: SQL query of total salary of employee acc.dept
+8: SQL query to fetch total salary of employees by department 
